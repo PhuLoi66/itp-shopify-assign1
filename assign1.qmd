@@ -35,15 +35,13 @@ I completed the following Shopify Academy modules:
 
 Screenshot of completion below:
 
-![](Ảnh%20chụp%20Màn%20hình%202026-06-21%20lúc%2017.17.51.png)
-
-## Shopify Admin Exploration
+![](images/shopify-academy-completion.png)Shopify Admin Exploration
 
 After completing the orientation materials, I created a free Shopify trial account and explored the admin dashboard at `admin.shopify.com`.
 
-![](Ảnh%20chụp%20Màn%20hình%202026-06-21%20lúc%2017.25.30.png)
+![](images/shopify-admin-dashboard.png)
 
-## Feature Reflection
+Feature Reflection
 
 Shopify organizes online retail around a few core features. Products form the catalog backbone, storing item details, variants, pricing, and inventory. Collections group related products for easier browsing and targeted promotions. Themes control the customer-facing storefront design, letting merchants adjust layout and branding without coding. Orders track the full transaction lifecycle, from payment through fulfillment and shipping. Analytics rounds it out by surfacing sales trends and conversion data, turning raw transactions into something a merchant can actually act on.
 
@@ -51,5 +49,6 @@ Shopify organizes online retail around a few core features. Products form the ca
 
 Shopify seems like a practical fit for an operation like the CPP Farm Store. It would let the store consolidate its curbside ordering into one platform, organized into collections for produce, nursery plants, wine, and gift baskets, mirroring how the physical store is already laid out. The inventory tools would help manage the seasonal, limited-quantity nature of farm produce, and the analytics dashboard would give a student-run team real sales visibility without needing dedicated data staff. Given that the workforce turns over every semester, Shopify's relatively low learning curve also matters, it's intuitive enough that new student employees could get up to speed quickly while still having access to features like local pickup and email marketing that suit a small agricultural retailer.Appendix
 
--   GitHub Repository: `ADD YOUR REPO URL HERE`
--   GitHub Pages (Live Site): `ADD YOUR PUBLISHED PAGE URL HERE`
+-   GitHub Repository: https://github.com/PhuLoi66/itp-shopify-assign1
+
+-   GitHub Pages (Live Site): https://phuloi66.github.io/itp-shopify-assign1/assign1.html
